@@ -5,4 +5,4 @@ if 5 > 2:
     print ("adsfadfsa newadd new thing")
     print ("dsasda")
 else:
-    print ("adasdafaa")
+    print ("adasd nanana afaa")
